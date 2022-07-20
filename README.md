@@ -1,6 +1,6 @@
 Hi, I’m Elijah Bowers
 I’m interested in becoming more skilled in programming literacy 
-I’m currently learning HTML, CSS, and JS in my web fundamentals course
+I have learned HTML, CSS, and JS in my web fundamentals course. Passed Python, and now currently in Java.
 I’m looking to collaborate on anything that will help me learn 
 How to reach me www.linkedin.com/in/elijahb603dev/
 
